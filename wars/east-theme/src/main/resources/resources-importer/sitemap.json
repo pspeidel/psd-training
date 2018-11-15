@@ -1,2 +1,28 @@
 {
+  "layoutTemplateId": "1_column",
+  "layouts": [
+    {
+      "name": "Welcome",
+      "title": "Welcome",
+      "friendlyURL": "/home",
+      "columns": [
+        [
+          "carousel.xml",
+          "Welcome to the Lunar Resort.html",
+          "Amenities.html",
+          "2 column description.html"
+        ]
+      ]
+    },
+    {
+      "name": "About Us",
+      "title": "About Us",
+      "friendlyURL": "/about-us",
+      "columns": [
+        [
+          "About Us Info.html"
+        ]
+      ]
+    }
+  ]
 }

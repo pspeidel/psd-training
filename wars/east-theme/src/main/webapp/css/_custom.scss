@@ -4,3 +4,13 @@
 /* endinject */
 
 /* This file allows you to override default styles in one central location for easier upgrade and maintenance. */
+
+
+/*
+ * Navigation
+ * display navigation menu name in full length
+ *
+ */
+.portlet-title-text {
+  overflow: unset;
+}
