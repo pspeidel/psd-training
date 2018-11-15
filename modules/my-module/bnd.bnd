@@ -1,4 +1,0 @@
-Bundle-Name: my-module
-Bundle-SymbolicName: com.liferay.docs.mymodule
-Bundle-Version: 1.0.0
-Export-Package: com.liferay.docs.mymodule.constants
